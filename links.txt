@@ -1,0 +1,13 @@
+links.txt
+Created Fri Aug  2 07:56:47 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+cli (command line interface) related links
+
+
+Links
+=====
+Six glorious commands worth getting to know
+TODO: Need to investigate
+https://astrobiomike.github.io/bash/six_commands
