@@ -1,0 +1,9 @@
+TODO
+Created Fri Aug  2 08:02:15 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
++++ Fri Aug  2 08:02:15 AKDT 2019 - Create individual cli 
+related repos.  Like grep with:
+  How do I grep for multiple patterns with pattern having a pipe character?
+  https://unix.stackexchange.com/questions/37313/how-do-i-grep-for-multiple-patterns-with-pattern-having-a-pipe-character/37381
