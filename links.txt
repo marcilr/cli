@@ -9,5 +9,9 @@ cli (command line interface) related links
 Links
 =====
 Six glorious commands worth getting to know
-TODO: Need to investigate
+Has head, less, cut, grep, cat, rm, mv,
+paste, sed, awk, &&, ||
+The only only one I an not familar with is
+paste.  Need to investigate paste and bone up 
+on awk.
 https://astrobiomike.github.io/bash/six_commands
