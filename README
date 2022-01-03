@@ -8,6 +8,9 @@ Filelist
 cli.txt
   cli (command line interface)
 
+docs/
+  Documentation
+
 links.txt
   cli (command line interface) related links
 
