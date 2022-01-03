@@ -1,0 +1,36 @@
+stat.txt
+Created Mon 03 Jan 2022 11:57:46 AM AKST
+Copyright (C) 2022 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+stat - display file or file system status
+
+
+The stat command can be used to display 
+
+
+Example
+=======
+$ cd ~/git/pdf/editors
+$ stat master-pdf-editor.txt
+  File: master-pdf-editor.txt
+  Size: 1910            Blocks: 8          IO Block: 4096   regular file
+Device: 802h/2050d	Inode: 3677608     Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/ marcilr)   Gid: ( 1000/ marcilr)
+Access: 2022-01-03 11:44:05.007942946 -0900
+Modify: 2021-12-29 13:02:40.120193762 -0900
+Change: 2021-12-29 13:02:40.120193762 -0900
+ Birth: -
+$
+
+
+Links
+=====
+Get file created/creation time? [duplicate]
+Asked 10 years, 1 month ago, Active 4 years, 5 months ago, Viewed 780k times
+Linux offers three timestamps for files: time of last access of contents (atime), 
+time of last modification of contents (mtime), and time of last modification of 
+the inode (metadata, ctime). So, no, you cannot.  The directory's mtime corresponds 
+to the last file creation or deletion that happened, though.
+answered Nov 11 '11 at 22:04, thiton
+https://unix.stackexchange.com/questions/24441/get-file-created-creation-time
