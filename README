@@ -11,6 +11,9 @@ cli.txt
 docs/
   Documentation
 
+index.html
+  Base page for Debian cli
+
 links.txt
   cli (command line interface) related links
 
